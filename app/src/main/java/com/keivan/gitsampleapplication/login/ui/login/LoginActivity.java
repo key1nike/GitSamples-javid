@@ -22,9 +22,8 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.keivan.gitsampleapplication.login.R;
-import com.keivan.gitsampleapplication.login.ui.login.LoginViewModel;
-import com.keivan.gitsampleapplication.login.ui.login.LoginViewModelFactory;
+import com.keivan.gitsampleapplication.R;
+
 
 public class LoginActivity extends AppCompatActivity {
 

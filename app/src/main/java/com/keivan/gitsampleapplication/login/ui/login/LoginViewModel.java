@@ -6,10 +6,10 @@ import androidx.lifecycle.ViewModel;
 
 import android.util.Patterns;
 
+import com.keivan.gitsampleapplication.R;
 import com.keivan.gitsampleapplication.login.data.LoginRepository;
 import com.keivan.gitsampleapplication.login.data.Result;
 import com.keivan.gitsampleapplication.login.data.model.LoggedInUser;
-import com.keivan.gitsampleapplication.login.R;
 
 public class LoginViewModel extends ViewModel {
 
